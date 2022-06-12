@@ -1,2 +1,3 @@
 # git_test
-repositorio asociado a theodinproject
+My first GitHub repo!
+Hello Odín!
